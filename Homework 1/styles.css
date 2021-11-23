@@ -1,0 +1,30 @@
+/* tag based selector*/
+body {
+    color: black;
+    background-color:#faebd7;
+    font-family :cursive;
+    font-size: 1em;
+}
+h1{
+    color:blue ;
+    text-decoration: underline;
+
+}
+h2{
+    color: green;
+}
+/*id based selector*/
+#anatomy-heading{
+    color: red;
+}
+#intro-ps{
+    font-style: italic;
+    font-size: 0.8em;
+}
+/*class based selectot*/
+.underline{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+}
